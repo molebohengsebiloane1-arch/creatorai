@@ -1,0 +1,6 @@
+{
+  "name": "CreatorAI",
+  "description": "Create Smarter. Grow Faster. Modern AI content creation web app for video scripts, YouTube optimization, social media captions, video planners, and content ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
